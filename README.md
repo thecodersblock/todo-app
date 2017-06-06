@@ -13,3 +13,4 @@ same names inside `dist`. The `dist` folder has to be checked in git and built f
 To work on this comment `<base href="/examples/ember-cli/index.html" />` in the `app/index.html`
 and uncommented it back before doing the production build.
 
+Testing CI
