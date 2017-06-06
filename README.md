@@ -2,6 +2,8 @@
 
 > A framework for creating ambitious web applications.
 
+[![Build Status](https://semaphoreci.com/api/v1/rajnvelotio/todo-app/branches/master/shields_badge.svg)](https://semaphoreci.com/rajnvelotio/todo-app)
+
 > _[Ember.js - emberjs.com](http://emberjs.com)_
 > _[Ember CLI - ember-cli.com](http://ember-cli.com)_
 
@@ -12,5 +14,3 @@ same names inside `dist`. The `dist` folder has to be checked in git and built f
 
 To work on this comment `<base href="/examples/ember-cli/index.html" />` in the `app/index.html`
 and uncommented it back before doing the production build.
-
-Testing CI
